@@ -90,6 +90,7 @@ node interact.js
 - Check the balance of the contract.
 - Transfer Ether to another account.
 - Withdraw Ether (if you are the owner).
+
 ![example of the result without import because i already have node modules and libraries , you will need to do some steps like creating txt ](images/image.png)
 
 ## Option 2: Deploying smart contract via remix & public testnet
@@ -98,6 +99,7 @@ node interact.js
 Install the Metamask browser extension from here.
 Create or import your wallet into Metamask.
 Make sure you have some ETH in your Metamask wallet (you can use the free faucet for testnets).
+
 ![New network(connecting ganache or holeski)](images/image1.png)
 
 **Go to Remix IDE**
@@ -109,6 +111,7 @@ Make sure you have some ETH in your Metamask wallet (you can use the free faucet
 **On the Solidity Compiler tab:**
 - Select the Advanced Configuration option.
 - Set the EVM Version to Paris (this is required to ensure compatibility with Ganache
+  
 ![Set the EVM Version to Paris (this is required to ensure compatibility with Ganache).](images/image3.png)
 - Click Compile.
   
