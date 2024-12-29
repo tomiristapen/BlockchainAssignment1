@@ -126,3 +126,8 @@ On the Deploy & Run Transactions tab:
 ![Click the Deploy button.](images/image2.png)
 
 After the contract is deployed, Remix will show the contract address in the Deployed Contracts section.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
