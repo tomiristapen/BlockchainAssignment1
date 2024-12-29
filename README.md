@@ -1,6 +1,6 @@
 # Blockchain Assignment 1 - Ether Wallet
 
-## Team: Tapen Tomiris , Ayaulym Kenzhekul
+## Team: Tapen Tomiris SE-2316 , Ayaulym Kenzhekul SE-2314
 
 This project demonstrates a basic **Ether wallet** smart contract that:
 - Accepts Ether deposits.
